@@ -1,1 +1,16 @@
-meet
+Coordinates of the meeting are below.
+
+-0.841600711036728, -73.99116596577247
+
+The number -0.841600711036728 is incorrect. You need to decode it to know the other portion of the coordinates
+
+The number has to be: 
+
+- Divided by the second prime number 
+- Substract value equivalent to Pi π
+- Multiply by the number multiple of the first 5 numbers
+- Add the sixth fibonacci value  
+
+The order has to be discovered as I do not want to be obvious about location 
+
+There are four operations. The number 4 is my reference for everything as the location has a relation to that number as well 
