@@ -7,7 +7,7 @@ The number -0.841600711036728 is incorrect. You need to decode it to know the ot
 The number has to be: 
 
 - Divided by the second prime number 
-- Subtract value equivalent to Pi π
+- Subtract value equivalent to Pi π (2 decimals)
 - Multiply by the number multiple of the first 5 digits (do not simplify) 
 - Add the sixth fibonacci value, zero inclusive   
 
