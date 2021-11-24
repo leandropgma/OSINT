@@ -8,7 +8,7 @@ The number has to be:
 
 - Divided by the second prime number 
 - Subtract value equivalent to Pi π (2 decimals)
-- Multiply by the number multiple of the first 5 digits (do not simplify) 
+- Multiply by the number multiple of the first 5 digits (counting normally and not simplifying) 
 - Add the sixth fibonacci value, zero inclusive   
 
 The order has to be discovered as I do not want to be obvious about location 
